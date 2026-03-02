@@ -1,0 +1,16 @@
+/Users/wayww/Documents/RK/src/main/java/com/example/rk/Application.java
+/Users/wayww/Documents/RK/src/main/java/com/example/rk/controller/StudentController.java
+/Users/wayww/Documents/RK/src/main/java/com/example/rk/controller/SubjectController.java
+/Users/wayww/Documents/RK/src/main/java/com/example/rk/controller/UniversityController.java
+/Users/wayww/Documents/RK/src/main/java/com/example/rk/dto/StudentRequest.java
+/Users/wayww/Documents/RK/src/main/java/com/example/rk/dto/SubjectRequest.java
+/Users/wayww/Documents/RK/src/main/java/com/example/rk/dto/UniversityRequest.java
+/Users/wayww/Documents/RK/src/main/java/com/example/rk/entity/Student.java
+/Users/wayww/Documents/RK/src/main/java/com/example/rk/entity/Subject.java
+/Users/wayww/Documents/RK/src/main/java/com/example/rk/entity/University.java
+/Users/wayww/Documents/RK/src/main/java/com/example/rk/repository/StudentRepository.java
+/Users/wayww/Documents/RK/src/main/java/com/example/rk/repository/SubjectRepository.java
+/Users/wayww/Documents/RK/src/main/java/com/example/rk/repository/UniversityRepository.java
+/Users/wayww/Documents/RK/src/main/java/com/example/rk/service/StudentService.java
+/Users/wayww/Documents/RK/src/main/java/com/example/rk/service/SubjectService.java
+/Users/wayww/Documents/RK/src/main/java/com/example/rk/service/UniversityService.java

@@ -1,0 +1,13 @@
+com/example/rk/dto/StudentRequest.class
+com/example/rk/Application.class
+com/example/rk/controller/UniversityController.class
+com/example/rk/repository/UniversityRepository.class
+com/example/rk/repository/SubjectRepository.class
+com/example/rk/repository/StudentRepository.class
+com/example/rk/entity/Student.class
+com/example/rk/controller/StudentController.class
+com/example/rk/entity/University.class
+com/example/rk/controller/SubjectController.class
+com/example/rk/dto/SubjectRequest.class
+com/example/rk/dto/UniversityRequest.class
+com/example/rk/entity/Subject.class
